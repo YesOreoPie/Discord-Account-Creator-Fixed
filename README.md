@@ -2,10 +2,10 @@
 
 <h2 align="center">THIS VERSION IS OFFICIALLY PATCHED!! </h2>
 
-### Check out v2 [here](https://github.com/exploitees/Cronus) (releases at ⭐️100)
-or
-### you can buy the unpatched version (v1) and/or the insane remake (v2) @ [skiddos.t.me](https://t.me/skiddos)
 
+or
+### you can buy the unpatched version (v1) and/or the insane remake (v2) 
+Discord : 𝐌𝐫.𝐒𝐡𝐚𝐝𝐨𝐰𝐗 (っ◔◡◔)っ#9656
 ---
 
 **A mass Discord account/token creator that can be used for:**
@@ -28,10 +28,6 @@ or
 - 0 Flags
 - Auto boosts joined server (claims nitro on register)
 - Online + Status (using ws connections)
-
----
-
-Join my discord for more information -> https://discord.gg/HFssqAymYD
 
 ---
 
